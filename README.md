@@ -65,11 +65,7 @@ craftsman-skills/
 ├── LICENSE                        # MIT License
 └── skills/
     └── drawn-notebook-ui/         # The Drawn Notebook Design System
-        ├── SKILL.md               # Complete agent specification
-        ├── README.md              # Human-readable quickstart & guide
-        └── assets/
-            ├── drawn-notebook.css         # Importable CSS stylesheet
-            └── drawn_notebook_tokens.dart # Dart ThemeData & tokens
+        └── SKILL.md               # Complete self-contained agent specification
 ```
 
 ---
@@ -88,3 +84,4 @@ Frontend Software Engineer · Angular Craftsman · Chennai, India
 ## 📄 License
 
 This repository and all contained skills are licensed under the [MIT License](./LICENSE). Feel free to adapt, extend, and integrate into your own agents and workflows.
+
